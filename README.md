@@ -71,7 +71,7 @@ Visit our official website to discover the GymLog ecosystem and start your journ
 GymLog is available on all your favorite platforms:
 
 - **🌐 Web Dashboard**: [dashboard.gymlog.eu](https://dashboard.gymlog.eu)
-- **📱 Android**: Available on [Google Play Store](https://play.google.com/store/apps/details?id=com.n9ka.gymlog)
+- **📱 Android**: Available on [Google Play Store]([https://play.google.com/store/apps/details?id=com.n9ka.gymlog](https://play.google.com/store/apps/details?id=com.neka.gymlog))
 - **💻 Windows**: Download the installer from our [official website](https://gymlog.eu)
 
 ---
