@@ -1,10 +1,8 @@
 # 🏋️ GymLog – Smart Workout Tracker
 
-![Logo GymLog](assets/gymlog.png)
-
-![GitHub repo size](https://img.shields.io/github/repo-size/n9ka/gymlog-public)
-![GitHub last commit](https://img.shields.io/github/last-commit/n9ka/gymlog-public)
-![License](https://img.shields.io/github/license/n9ka/gymlog-public)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/n9ka/GymLog.eu/main/logo.png" width="200" alt="GymLog Logo">
+</p>
 
 **GymLog is an intelligent, AI-powered workout tracker designed to revolutionize the way you log and analyze your training sessions.**
 
